@@ -63,6 +63,7 @@ class Student3{
     }
 }
 let obj2=new Student3("Anu",10)
+
 console.log(obj2.name)
 console.log(obj2.age)
 

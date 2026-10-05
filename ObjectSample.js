@@ -1,3 +1,4 @@
+//object literal syntax
 /*
 let objectname={
     key1:value1,

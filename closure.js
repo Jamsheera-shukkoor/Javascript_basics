@@ -12,3 +12,4 @@ function outer()
 }
 const x=outer()
 x()
+

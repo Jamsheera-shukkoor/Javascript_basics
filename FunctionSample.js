@@ -24,3 +24,4 @@ function addition(a,b)
 return a+b
 }
 let sum=addition(5,10)
+console.log(sum)
